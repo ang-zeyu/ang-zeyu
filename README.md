@@ -2,7 +2,7 @@
 
 #### I am currently 🌱
 
-- Studying for the AWS SAA certification, having completed CCP certification
+- Studying for the AWS SAA certification, moving on from CCP
 - Picking up native android development (a huge WIP)
 
 #### My most notable projects here are :star:
@@ -13,7 +13,6 @@
 #### Directory to other projects
 
 These are some non exhaustive projects I've worked on as part of university coursework, and various smaller pet projects to pick up certain skills that I've uploaded to Github. For my professional work, you can refer to my [LinkedIn profile](https://www.linkedin.com/in/ze-yu-ang-740168162/) and/or resume:
-
 
 ##### Web Development
 
@@ -39,7 +38,6 @@ These are some non exhaustive projects I've worked on as part of university cour
 - [A simple](https://github.com/ang-zeyu/dockerLinkedContainersTest) containerised setup for a react frontend, an express backend, proxied by an nginx container, showcasing basic familiarity with Docker.
 - [TravelPal](https://github.com/ang-zeyu/TravelPal): A travelling companion app, written in java and JavaFX for a software engineering course. (core developer) (personal contribution ~= 10k loc)
 - [Https Proxy](https://github.com/ang-zeyu/3103-project/tree/main/assignment1) Multi-threaded C++ Https proxy made with OpenMP
-- (Unuploaded) Coursework assignments for a parallel computation course venturing into the use of OpenMP, CUDA and MPI for 3 different paradigms of parallel computation. 
 
 ##### Game Development
 
