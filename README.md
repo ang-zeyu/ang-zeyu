@@ -2,8 +2,8 @@
 
 #### I am currently 🌱
 
-- Studying for the AWS SAA certification, moving on from CCP
 - Picking up native android development (a huge WIP)
+- I've just completed my AWS SAA certification, and am looking into the SysOps certification to cement my knowledge with more practical experience.
 
 #### My most notable projects here are :star:
 
@@ -42,6 +42,10 @@ These are some non exhaustive projects I've worked on as part of university cour
 ##### Game Development
 
 - [Breakout](https://github.com/ang-zeyu/breakout) and [Plants vs Zombies](https://github.com/ang-zeyu/desolatePlanter) Shameless and basic clones of popular games made for learning Unity game development.
+
+##### Links
+
+- [LinkedIn](https://www.linkedin.com/in/ze-yu-ang-740168162/)
 
 <!--
 **ang-zeyu/ang-zeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
