@@ -22,6 +22,7 @@ These are some non exhaustive projects I've worked on as part of university cour
 - [Anime recommendation catalogue](https://github.com/ang-zeyu/animeRecommendationCatalogue) One of my first ever web projects, made using only raw HTML, CSS and JS. A fun attempt to create an anime "fandom/recommendation" website with features like a persistent "watch progress" bar.
 - [Weathery](https://github.com/ang-zeyu/weathery) Minimalistic weather site made using an external api and React
 - [LargestHistogramVisualizer](https://github.com/ang-zeyu/LargestHistogramVisualizer) Step-by-step visualizer in React.js for visualizing the solution to the largest rectangle under a histogram [problem](https://www.interviewbit.com/blog/largest-rectangle-in-histogram/).
+- [AppTracky](https://github.com/ang-zeyu/AppTracky) WIP Kanban job application tracking app built on Spring Boot. The highlight is learning to implement OAuth/OIDC authentication flows and supporting federated identity (associating google accounts with normal accounts and vice versa).
 
 ##### Mobile Development
 
