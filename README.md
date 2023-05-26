@@ -16,13 +16,13 @@ These are some non exhaustive projects I've worked on as part of university cour
 
 ##### Web Development
 
+- [AppTracky](https://github.com/ang-zeyu/AppTracky) a drag-and-drop Kanban job application tracking app built on Spring Boot, Spring Security, AWS S3 and SES, supporting federated identity with OAuth/OIDC auth.
 - [A simple](https://github.com/ang-zeyu/bloggo) blogging web app allowing posts to be written in Markdown, written in React + GraphQL, Node.Js with MongoDB (link)
 - [An online](https://github.com/ang-zeyu/buyOn9) marketplace website with an auto price discounting feature for sellers, written with Nunjucks, Node.Js, and MongoDB (link)
 - [A simple](https://github.com/ang-zeyu/datingApp) dating application, allowing users to upload photos, view/edit user profiles, written with Angular + .NET Core (link)
 - [Anime recommendation catalogue](https://github.com/ang-zeyu/animeRecommendationCatalogue) One of my first ever web projects, made using only raw HTML, CSS and JS. A fun attempt to create an anime "fandom/recommendation" website with features like a persistent "watch progress" bar.
 - [Weathery](https://github.com/ang-zeyu/weathery) Minimalistic weather site made using an external api and React
 - [LargestHistogramVisualizer](https://github.com/ang-zeyu/LargestHistogramVisualizer) Step-by-step visualizer in React.js for visualizing the solution to the largest rectangle under a histogram [problem](https://www.interviewbit.com/blog/largest-rectangle-in-histogram/).
-- [AppTracky](https://github.com/ang-zeyu/AppTracky) WIP Kanban job application tracking app built on Spring Boot. The highlight is learning to implement OAuth/OIDC authentication flows and supporting federated identity (associating google accounts with normal accounts and vice versa).
 
 ##### Mobile Development
 
