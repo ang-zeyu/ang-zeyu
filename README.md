@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-#### I am currently 🌱
-
-- Picking up native android development (a huge WIP)
-- I've just completed my AWS SAA certification, and am looking into the SysOps certification to cement my knowledge with more practical experience.
-
 #### My most notable projects here are :star:
 
 - [InfiSearch](https://github.com/ang-zeyu/infisearch), A semi-scalable end-to-end client-side search solution powered by a static pre-built index. Scalability was achieved by fragmenting the static file index into numerous files for on-demand retrieval. It consists of a multi-threaded CLI indexer written in Rust, a search library written in Web Assembly (Rust), and a user interface written in Typescript.
@@ -12,7 +7,7 @@
 
 #### Directory to other projects
 
-These are some non exhaustive projects I've worked on as part of university coursework, and various smaller pet projects to pick up certain skills that I've uploaded to Github. For my professional work, you can refer to my [LinkedIn profile](https://www.linkedin.com/in/ze-yu-ang-740168162/) and/or resume:
+These are some non exhaustive projects I've worked on as part of university coursework, and various smaller pet projects to pick up certain skills that I've uploaded to Github. For my professional experience, you can refer to my [LinkedIn profile](https://www.linkedin.com/in/ze-yu-ang-740168162/) and/or resume:
 
 ##### Web Development
 
