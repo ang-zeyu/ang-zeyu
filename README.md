@@ -11,7 +11,7 @@ These are some non exhaustive projects I've worked on as part of university cour
 
 ##### Web Development
 
-- [AppTracky](https://github.com/ang-zeyu/AppTracky) a drag-and-drop Kanban job application tracking app built on Spring Boot, Spring Security, utilising various AWS services (ECS, ECR, IAM, S3, S3 presigning, RDS, SSM Parameter store), supporting federated identity with OAuth/OIDC auth.
+- [AppTracky](https://github.com/ang-zeyu/AppTracky), a drag-and-drop Kanban job application tracking app built on Spring Boot, Spring Security, utilising various AWS services (ECS, ECR, IAM, S3, S3 presigning, RDS, SSM Parameter store), supporting federated identity with OAuth/OIDC auth.
 - [A simple](https://github.com/ang-zeyu/bloggo) blogging web app allowing posts to be written in Markdown, written in React + GraphQL, Node.Js with MongoDB (link)
 - [An online](https://github.com/ang-zeyu/buyOn9) marketplace website with an auto price discounting feature for sellers, written with Nunjucks, Node.Js, and MongoDB (link)
 - [A simple](https://github.com/ang-zeyu/datingApp) dating application, allowing users to upload photos, view/edit user profiles, written with Angular + .NET Core (link)
